@@ -33,7 +33,7 @@ The analysis explores year-over-year (YoY) debt growth, identifies historical mo
    - Projected Debt Growth: Provides a forecast of the growth in publicly held debt over the next few years.
 
 ## Tools
-Microsoft Excel: Used for data analysis, visualization, and projections.
+Microsoft Excel: Used for data cleaning, analysis, visualization, and projections.
 
 ## Findings and Insights
 
