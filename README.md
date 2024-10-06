@@ -41,7 +41,7 @@ Microsoft Excel: Used for data analysis, visualization, and projections.
     From 2016 to 2019, the Total Public Debt Outstanding saw an average yearly increase of about 5%.
     In 2020, there was a significant spike in debt, likely driven by the US government's pandemic response efforts.
 
-    ![](Yearly_Debt_Perc.png)
+![](Yearly_Debt_Perc.png)
 
 
 ### Monthly Debt Trends:
@@ -50,7 +50,7 @@ Microsoft Excel: Used for data analysis, visualization, and projections.
     Hypothesis: Debt tends to rise during the holiday seasons (Thanksgiving, Christmas, and New Year's), when consumer spending increases. 
     Lower debt months are generally free of major holidays, leading to reduced borrowing.
 
-    ![](Monthly.png)
+![](Monthly.png)
 
    
 ### Projected Growth of Publicly Held Debt (2023–2027):
@@ -59,7 +59,8 @@ Microsoft Excel: Used for data analysis, visualization, and projections.
     - 2020–2022: Publicly held debt rose from 21.5 trillion USD to 25 trillion USD
     - 2023–2027: Publicly held debt is projected to increase to 33 trillion USD.
 
-    ![](Projected.png)
+![](Projected.png)
 
-    
 The analysis concludes that publicly held debt will continue to grow steadily over the next five years.
+
+**Data Source**: https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny (data used from period 1993 - Feb 2023)
